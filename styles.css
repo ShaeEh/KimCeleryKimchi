@@ -77,7 +77,7 @@ overflow: hidden;
 
 #content {
 float: left;
-width: 660px;
+width: 1100px;
 margin: 10px 30px 10px 30px;
 }
 
@@ -237,5 +237,8 @@ color: #da92aa;
 .license{
 	background-color: rgb(226, 217, 217);
 	padding: 20px;
+}
+.contact{
+	display: none;
 }
 
