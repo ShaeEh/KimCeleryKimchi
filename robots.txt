@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
+Allow: /admin/
+Disallow: /private/
 Sitemap: https://kimcelerykimchi.netlify.app/sitemap.xml
