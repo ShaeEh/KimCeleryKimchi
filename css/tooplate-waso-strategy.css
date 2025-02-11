@@ -914,3 +914,11 @@ strong {
 .privacy-policy{
   width: 120px;
 }
+.explore-links h2{
+  color: green;
+}
+.explore-links a{ 
+  color: green;
+  font-size: 24px;
+}
+
