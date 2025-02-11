@@ -921,4 +921,11 @@ strong {
   color: green;
   font-size: 24px;
 }
+.broccolini{
+  display: flex;
+}
+.broccolini img{
+  display: flex;
+  flex: 0 0 40%;
+}
 
