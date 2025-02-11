@@ -916,16 +916,19 @@ strong {
 }
 .explore-links h2{
   color: green;
+  padding-bottom: 1rem;
 }
 .explore-links a{ 
   color: green;
   font-size: 24px;
 }
 .broccolini{
+  align-items: center;
   display: flex;
+  gap: 3rem;
 }
 .broccolini img{
-  display: flex;
-  flex: 0 0 40%;
+  width: 30%;
+  border-radius: 5px;
 }
 
