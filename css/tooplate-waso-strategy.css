@@ -489,7 +489,7 @@ strong {
 .about-image-info {
   width: 60%;
   position: absolute;
-  top: 250px;
+  top: 150px;
   right: 0;
   padding: 40px;
   text-align: right;
@@ -640,11 +640,7 @@ strong {
 /*---------------------------------------
   CONTACT INFO               
 -----------------------------------------*/
-.contact-thumb {
-  position: relative;
-  bottom: 140px;
-  margin-bottom: -140px;
-}
+
 
 .contact-info {
   border-radius: 20px;
@@ -931,4 +927,15 @@ strong {
   width: 30%;
   border-radius: 5px;
 }
+.nutrition{
+  display: flex;
+align-items: center;;
+}
+.nutrition-img{
+  width: 20%;
+  border-radius: 1rem;
+}
+.color-blue{
+  background-color: rgb(53, 53, 249);
 
+}
