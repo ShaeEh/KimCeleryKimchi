@@ -19,5 +19,15 @@ celery-kimchi-spicy-recipe.webp | Downloaded from: https://unsplash.com/photos/b
 License Free
 No attribution required
 
-celery-nutrition.webp | Downloaded from: https://unsplash.com/photos/a-white-plate-topped-with-green-vegetables-on-top-of-a-table-2x_sKJcNfKM Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use images from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash.
+broccolini-stir-fry.webp | Downloaded from: https://pixabay.com/photos/chinese-food-gourmet-food-5233512/
+Pixabay - Free for use under the Pixabay Content License
+No attribution required
+
+celery-kato.wabp | https://unsplash.com/photos/clear-glass-jar-with-green-liquid-VU17nC77iJg
+License Free
+No attribution required
+
+celery-nutrition.webp | Downloaded from: https://unsplash.com/photos/a-white-plate-topped-with-green-vegetables-on-top-of-a-table-2x_sKJcNfKM 
+Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use images 
+from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash.
 
