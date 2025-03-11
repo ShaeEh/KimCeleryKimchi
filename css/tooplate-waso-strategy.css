@@ -923,6 +923,16 @@ strong {
   display: flex;
   gap: 3rem;
 }
+.celery{
+  align-items: center;
+  display: flex;
+  gap: 3rem;
+}
+.celery img{
+  width: 30%;
+  height: 200px;
+  border-radius: 5px;
+}
 .broccolini img{
   width: 30%;
   border-radius: 5px;
